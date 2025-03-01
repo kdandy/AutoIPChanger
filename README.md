@@ -14,14 +14,14 @@ AutoIPChanger automatically changes your IP every 3 seconds by restarting the ne
 
 ## ⚙️ Installation
 ```sh
-git clone https://github.com/yourusername/AutoIPChanger.git
+git clone https://github.com/kdandy/AutoIPChanger.git
 cd AutoIPChanger
 pip install -r requirements.txt
 ```
 
 ## 🚀 Usage
 ```sh
-sudo python3 auto_ip_changer.py
+sudo python3 AutoIPChanger.py
 ```
 
 ## 📊 Example Output
