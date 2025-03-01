@@ -17,11 +17,12 @@ AutoIPChanger automatically changes your IP every 3 seconds by restarting the ne
 git clone https://github.com/yourusername/AutoIPChanger.git
 cd AutoIPChanger
 pip install -r requirements.txt
-
+```
 
 ## 🚀 Usage
 ```sh
 sudo python3 auto_ip_changer.py
+```
 
 ## 📊 Example Output
 🔄 Changing IP on interface: en0...
