@@ -24,19 +24,19 @@ git clone https://github.com/kdandy/CipherHawk.git
 cd CipherHawk
 ```
 
-# Create and activate virtual environment
+### Create and activate virtual environment
 ```sh
 python3 -m venv .venv
 source .venv/bin/activate  # macOS/Linux
 .venv\Scripts\activate     # Windows
 ```
 
-# Install dependencies
+### Install dependencies
 ```sh
 pip install -r requirements.txt
 ```
 
-# 🚀 Usage
+## 🚀 Usage
 Run with root privileges to enable full anonymization:
 ```sh
 sudo python3 CipherHawk.py
