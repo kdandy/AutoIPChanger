@@ -43,8 +43,10 @@ sudo python3 CipherHawk.py
 ```
 
 ## 📊 Example Output
-🔄 Changing IP on interface: en0...
-✅ IP address changed successfully!
+| 🌐 New Public IP	| 🎭 MAC Address        | 🔀 Hostname    |
+|--------------------|----------------------|----------------|
+| 192.168.1.45      | 	02:3A:4B:5C:6D:7E   | Anon-4821      |
+| 192.168.1.98      |   02:7F:2C:9D:8A:6B   | Anon-9234      |
 
 ## ⚠️ Disclaimer
 This tool is intended for privacy enhancement and security research only. Unauthorized use may violate local laws.
